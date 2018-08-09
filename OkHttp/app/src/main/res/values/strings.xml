@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OkHttp</string>
+    <string name="Buton">Primeste nume</string>
+    <string name="Text">Aici se afiseaza numele</string>
+</resources>
